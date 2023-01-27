@@ -1,12 +1,42 @@
-# GUN Chat Dapp Demo
+# Ermit Chat
 
-A decentralized chat app built with [GUN](https://gun.eco/). 
+Ermit Chat is a simple one room chat application built using the following technologies:
 
-- Try the [Live Demo](https://gun-chat-dapp.web.app/)
-- Watch the [Chat Dapp Video](https://youtu.be/J5x3OMXjgMc)
+- [gun.js](https://gun.eco/) for real-time data management
+- [npm](https://www.npmjs.com/) for package management
+- [Svelte](https://svelte.dev/) for building the user interface
+
+## Installation
+
+To install the necessary dependencies, run the following command in the root directory of the project:
 
 ```
-git clone <this-repo>
 npm install
-npm run dev
 ```
+
+
+## Usage
+
+To start the application, run the following command in the root directory of the project:
+
+```
+npm start
+```
+
+
+This will start a development server and open the application in your default web browser.
+
+## Features
+
+- Real-time chat with other users
+- User authentication (Coming soon)
+- Create new room (Coming soon)
+- Leave room (Coming soon)
+
+## Contributing
+
+We welcome contributions to Ermit Chat. If you find a bug or have an idea for a new feature, please open an issue or submit a pull request.
+
+## License
+
+Ermit Chat is released under the Apache 1.0 License.

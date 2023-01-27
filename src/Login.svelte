@@ -28,3 +28,4 @@
 <button class="login" on:click={login}>Login</button>
 <button class="login"  on:click={signup}>Sign Up</button>
   
+<a href="https://www.flaticon.com/free-icons/hermit-crab" title="hermit crab icons">Hermit crab icons created by Freepik - Flaticon</a>
