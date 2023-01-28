@@ -1,5 +1,7 @@
 # Ermit Chat
 
+Updated 01/27/2023
+
 Ermit Chat is a simple one room chat application built using the following technologies:
 
 - [gun.js](https://gun.eco/) for real-time data management
